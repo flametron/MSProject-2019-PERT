@@ -2,11 +2,11 @@
 Contains the macro for running PERT Analysis in Microsoft Project 2019
 
 ## How to Use
-Make sure to check out **Setting up the macro** below if you haven't already set this up.  
-When you first open a project, **hit the button** to add the necessary Fields (_adds the "Optimistic Duration","Most Likely Duration","Pessimistic Duration","Optimistic Weight","Most Likely Weight","Pessimistic Weight","PERT State"_) beside the "Duration" Field.  
-While entering data, **by default the Macro will consider only the weights of the first task as the weights for all tasks**, so you can safely set the other weights (weights from task 2 onwards) to 0.  
-Make sure that the **sum of the "Optimistic Weight","Most Likely Weight","Pessimistic Weight" Fields are equal to 6**.  
-After you have entered all the data into the Entry Table, **hit the button again** and it will analyze PERT and give the output Duration in the "Duration" field.  
+1. Make sure to check out **Setting up the macro** below if you haven't already set this up.  
+2. When you first open a project, **hit the button** to add the necessary Fields (_adds the "Optimistic Duration","Most Likely Duration","Pessimistic Duration","Optimistic Weight","Most Likely Weight","Pessimistic Weight","PERT State"_) beside the "Duration" Field.  
+3. While entering data, **by default the Macro will consider only the weights of the first task as the weights for all tasks**, so you can safely set the other weights (weights from task 2 onwards) to 0.  
+4. Make sure that the **sum of the "Optimistic Weight","Most Likely Weight","Pessimistic Weight" Fields are equal to 6**.  
+5. After you have entered all the data into the Entry Table, **hit the button again** and it will analyze PERT and give the output Duration in the "Duration" field.  
 _Raise an issue if you face any problems._  
   
 [Sample Project can be found here](./SampleProject.mpp)  
