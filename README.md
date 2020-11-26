@@ -9,7 +9,8 @@ Step 2. Go to **View > Macros (Dropdown) > Visual Basic**
 ![Open Visual Basic](./images/OpenVBFromProject.png)  
 Step 3. Select **ThisProject(Global.MPT)** From **Microsoft Project Objects** under **ProjectGlobal(Global.MPT)** (We are using global so that we can use this macro on all future projects without having to readd to them)  
 ![Select ThisProject(Global.MPT)](./images/SelectThisProject.png)  
-Step 4. Paste the code from **[the github file here](./PERTmacro.vba)** ([Raw can be found here](https://raw.githubusercontent.com/flametron/MSProject-2019-PERT/main/PERTmacro.vba)) into the codebox that opens (append to the end if some code is already present there)  
+Step 4. Paste the code from **[the PERTmacro.vba file here](./PERTmacro.vba)** ([Raw can be found here](https://raw.githubusercontent.com/flametron/MSProject-2019-PERT/main/PERTmacro.vba)) into the codebox that opens (append to the end if some code is already present there)  
+_if no codebox opens, then right click on **ThisProject(Global.MPT)** and select **View Code**_  
 ![Paste Code](./images/PasteTheCode.png)  
 Step 5. Hit **Save** from either the **toolbox** or Going to **File > Save Global.MPT** or just hit **Ctrl + S** And close the Microsoft Visual Basic for Applications window  
 
