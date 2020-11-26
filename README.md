@@ -32,7 +32,7 @@ Step 3. Select **Macros** from the **Choose Commands from** dropdown
 ![Choose Macros](./images/SelectMacrosFromTheChooseCommandsFromDropdown.png)  
 Step 4. Select **PERT** and click on **Add >>**  (Make sure the **Customize Quick Access Toolbar** dropdown is selected to **For all documents**)
 ![Add PERT](./images/SelectPERTAndClickOnAdd.png)  
-Step 5. You Should have **PERT** into the **Quick Access Toolbar _For all documents_**  
+Step 5. You Should have **PERT** into the **Quick Access Toolbar _For all documents_** (you can rearrange using the buttons to the side)  
 ![How it should look](./images/YouShouldHavePERTInTheAccessToolBarNow.png)  
 Step 6. Hit **OK**  
 Step 7. Now you have a button in the **Quick Access Toolbar** (on hovering the tooltip says _PERT_)  
