@@ -1,5 +1,5 @@
 # MSProject-2019-PERT
-Contains the macro for running PERT Analysis in Microsoft Project 2019
+Contains the macro for running PERT Analysis in Microsoft Project 2019 (And maybe Project 2016 too, IDK, I don't have Project 2016 to test)
 
 ## How to Use
 1. Make sure to check out **Setting up the macro** below if you haven't already set this up.  
