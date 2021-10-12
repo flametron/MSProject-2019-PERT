@@ -9,9 +9,6 @@ Contains the macro for running PERT Analysis in Microsoft Project 2019 (And mayb
   <a href="#">
     <img src="https://github.com/MikeCodesDotNET/ColoredBadges/blob/master/svg/devices/pc.svg" alt="Windows" style="vertical-align:top; margin:6px 4px">
   </a>
-  <a href="#">
-    <img src="https://github.com/MikeCodesDotNET/ColoredBadges/blob/master/svg/devices/mac.svg" alt="Mac" style="vertical-align:top; margin:6px 4px">
-  </a>
 </p>
 
 ## How to Use
